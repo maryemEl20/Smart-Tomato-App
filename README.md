@@ -66,5 +66,3 @@ Le projet utilise une architecture moderne distribuée, composée de plusieurs c
 - Fournir un outil d’aide à la décision pour les agriculteurs utilisant les technologies modernes Big Data et IoT.
 
 ---
-
-Ce README peut être complété par des schémas d'architecture (Docker + HDFS + Spark + Firebase) pour rendre la documentation plus visuelle.
